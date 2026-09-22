@@ -26,7 +26,7 @@ A collection of Python projects and exercises to learn and master the language.
    # macOS/Linux
    source .venv/bin/activate
    ```
-
+.
 3. Install dependencies (if any):
    ```bash
    pip install -r requirements.txt
